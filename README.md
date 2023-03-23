@@ -4,5 +4,7 @@ Personal Finance Tracker - A personal finance tracker that allows users to track
 Stack to use (MERN Stack)
 
 Frontend - React v16+
+
 Backend - NodeJS 
+
 Database - NoSQL (MongoDB) 
